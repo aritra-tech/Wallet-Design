@@ -1,3 +1,3 @@
-# Calculator-App
+# Wallet Android Design
 
-Made this Calculator App using XML and Java
+Made this wallet design using XMl in Android Studio
